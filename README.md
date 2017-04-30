@@ -1,2 +1,3 @@
 # Convolutional-Neural-Networks-for-Image-Recognition
 Use of Deep Learning with Convolutional Neural Networks for Image Recognition.
+Using Deep Learning and Convolutional Neural Networks, created a classifier to distinguish between the images of cats and dogs (or rather any two different types of images) with a training set of 8000 images and test set of 2000 images of each type. Did training of 25 epochs which, because of my slow system, took about a day. The code explanation is given as comments within the code. The first run gave a training set accuracy of 99.5% and a test set accuracy of 78.47%.
